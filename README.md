@@ -37,8 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [(https://github.com/aszcoding/Interactive-Rating-Component)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [(https://aszcoding.github.io/Interactive-Rating-Component/)]
 ## My process
 
 I styled each card and then worked on the JavaScript portion to get them to display one at a time.
